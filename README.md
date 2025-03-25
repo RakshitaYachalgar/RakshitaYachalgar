@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **yachalgarr@gmail.com**
 
-- ⚡ Fun fact **I have a good humor(i think)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

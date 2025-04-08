@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rakshita yachalgar</h1>
-<h3 align="center">A passionate frontend developer from india India</h3>
-<img align="right" alt="Coding" width="200" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
 
+<img align="right" alt="Coding" width="200" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RakshitaYachalgar&label=Profile%20views&color=0e75b6&style=flat" alt="RakshitaYachalgar" /> </p>
 - 🌱 I’m currently learning **MERN stack, python, DSA**
 
 - 📫 How to reach me **yachalgarr@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RakshitaYachalgar&label=Profile%20views&color=0e75b6&style=flat" alt="RakshitaYachalgar" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rakshita yachalgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshita yachalgar" height="30" width="40" /></a>
